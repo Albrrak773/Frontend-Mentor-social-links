@@ -17,4 +17,4 @@ Live site: [Here](frontendmentor-social-link-albrrak773)
 ### What I learned
 Not much, This is a pertty simple design
 ### Useful resources
-* [The Frontedn Mentor Challenges Page](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) - This the website I got this challenge from
+* [The Frontedn Mentor Challenges Page](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) - This the website I got this challenge from
