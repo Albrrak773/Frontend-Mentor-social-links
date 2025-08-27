@@ -60,6 +60,7 @@ body {
     padding: 1rem;
     width: 100%;
     font-weight: 700;
+    text-align: center;
 }
 .link:hover {
     cursor: pointer;
