@@ -31,7 +31,7 @@ body {
 }
 
 #Name {
-    font-weight: 400;
+    font-weight: 500;
 }
 
 #location {
@@ -66,4 +66,18 @@ body {
     background-color: var(--main-green);
     color: black;
 
+}
+
+a {
+    text-decoration: none;
+}
+
+@media screen and (max-width: 600px){
+    #card {
+        width: 350px;
+    }
+    body {
+        font-size: 0.9rem;
+    }
+    
 }
